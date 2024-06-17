@@ -19,6 +19,7 @@ runs/fairface/best_AgeRaisedBy20
 runs/fairface/best_badAgeClass
 runs/fairface/loss_class_weight
 
+*.zip
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
